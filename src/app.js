@@ -26,6 +26,7 @@ window.onload = function() {
 document.querySelector("#root_top").style.color = color;
 document.querySelector("#root_bottom").style.color = color;
 
-
+//Rotación de los palos de las cartas 180°
+//document.querySelector("#root_bottom").style.transform = "rotate(180deg)";
 
 };
